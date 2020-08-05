@@ -1,0 +1,13 @@
+:= 
+untuk memberi tau jenis type & pengganti var tapi tdk bole dgunakan diluar func
+
+math.floor,ceil,sqrt
+(?)
+
+var yang dibuat hrus digunakan, func tidak
+
+slice
+array yg tdk dideklarasikan, mrupakan bgian kesatuan dr arr
+
+\n
+buat line bru
